@@ -92,5 +92,3 @@ Full playable Sudoku game with multiple difficulty levels, timer, hint system, c
 </p>
 
 ---
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juaneduardocastro&show_icons=true&locale=en&layout=compact" alt="juaneduardocastro" /></p>
