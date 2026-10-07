@@ -101,9 +101,8 @@ Full playable Sudoku game with 4 difficulty levels, timer, hint system, and a ba
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/> </a>
-<a href="https://sentry.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sentry/sentry-icon.svg" alt="sentry" width="40" height="40"/> </a>
 <a href="https://sentry.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/sentry/362D59" alt="sentry" width="40" height="40"/> </a>
-<a href="https://sentry.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="sentry" height="28"/> </a>
+
 </p>
 
 **Tools**
